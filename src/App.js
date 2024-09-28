@@ -35,14 +35,21 @@ const App = () => {
 
   return (
     <>
-      <Layout style={{ height: "100vh", backgroundColor: "white" }}>
+      <Layout
+        style={{
+          height: "100vh",
+          backgroundImage: "url('/background.jpg')", // Image from the public directory
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+        }}>
+
         <Header
           style={{
             display: "flex",
             alignItems: "center",
           }}
         >
-          <Title style={{ color: "white " }}>Next AI</Title>
+          <Title style={{ color: "white " }}>DocuQuery AI</Title>
         </Header>
         <Content style={{ width: "80%", margin: "auto" }}>
           <div style={pdfUploaderStyle}>
