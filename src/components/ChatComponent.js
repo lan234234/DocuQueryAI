@@ -9,7 +9,7 @@ import Speech from "speak-tts";
 
 const { Search } = Input;
 
-const DOMAIN = "Your backend URL";
+const DOMAIN = process.env.REACT_APP_BACKEND_DOMAIN; // replace it with your backend url or use environment variable
 
 const searchContainer = {
   display: "flex",
