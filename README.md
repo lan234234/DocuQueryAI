@@ -2,7 +2,6 @@
 
 **DocuQueryAI** empowers users to get answers from uploaded documents through an intuitive web interface. Ask questions in either text or voice, and receive intelligent,  context-aware responses in real-time.
 
-Welcome to the frontend repository of the DocuQueryAI. The backend code can be found [here](https://github.com/lan234234/DocuQueryAI-Backend).
 
 **Visit DocuQueryAI:** [DocuQueryAI](https://docu-query-ai.vercel.app/)
 
@@ -17,36 +16,36 @@ Explore screenshots from DocuQueryAI showcasing each of our core features:
 
 ### Document Upload
 #### Upload Document
-![Document Upload](public/demo/upload1.png)
+![Document Upload](Frontend/public/demo/upload1.png)
 *Interface for upload document.*
 
-![Choose Document to Upload](public/demo/upload2.png)
+![Choose Document to Upload](Frontend/public/demo/upload2.png)
 *Choose document.*
 
-![Upload Successfully](public/demo/upload3.png)
+![Upload Successfully](Frontend/public/demo/upload3.png)
 *Upload document successfully.*
 
 #### Delete Document
-![Delete Document](public/demo/upload4.png)
+![Delete Document](Frontend/public/demo/upload4.png)
 *Delete uploaded document.*
 
 
 ### Real-Time Question and Answer
-![Question](public/demo/chat1.png)
+![Question](Frontend/public/demo/chat1.png)
 *Type in question.*
 
-![Question and Answer](public/demo/chat2.png)
+![Question and Answer](Frontend/public/demo/chat2.png)
 *Real-time question and answer.*
 
 
 ### Voice Interaction
-![Voice Interaction](public/demo/voice1.png)
+![Voice Interaction](Frontend/public/demo/voice1.png)
 *Start chat mode.*
 
-![Voice Interaction](public/demo/voice2.png)
+![Voice Interaction](Frontend/public/demo/voice2.png)
 *Start voice recording.*
 
-![Voice Interaction](public/demo/voice3.png)
+![Voice Interaction](Frontend/public/demo/voice3.png)
 *Voice-based interaction.*
 
 
